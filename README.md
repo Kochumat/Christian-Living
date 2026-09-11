@@ -1,1 +1,118 @@
 # Christian-Living
+
+  <header>
+    <h1>Privacy Policy</h1>
+    <div class="meta">Christian Living app &nbsp;·&nbsp; Last updated:9 Sept 2026 &nbsp;·&nbsp; Version 1.6</div>
+  </header>
+
+  <p>This app is a free, independent reading companion for personal Bible and Christian-living
+  study. It links out to publicly available Bible study resources and does not represent, and is
+  not affiliated with, any of the organizations whose websites it displays. This policy explains,
+  plainly, what the app does and doesn't do with your data.</p>
+
+  <div class="callout">
+    In short: this app has no user accounts, does not sell or share your data, shows no ads, and
+    doesn't run any analytics or tracking. Almost everything it stores stays on your own device.
+    The only data that ever leaves your device is what you type into the search box — sent either
+    to the Bible/study website you're viewing, or, if you use the language-switching feature, to a
+    translation service.
+  </div>
+
+  <h2>1. No accounts, no sign-up</h2>
+  <p>The app does not ask you to create an account, log in, or provide your name, email address,
+  phone number, or any other personal identifier. There's nothing to register.</p>
+
+  <h2>2. What's stored on your device</h2>
+  <p>The app saves a small set of preferences locally on your device, using Android's standard
+  app storage. None of this is uploaded anywhere; it exists only to make the app remember your
+  settings between visits.</p>
+  <table>
+    <tr><th>What's stored</th><th>Why</th></tr>
+    <tr><td>The topic, scripture reference, or search text you last typed in each mode, and the
+    page you were last viewing</td><td>So the app can return you to where you left off</td></tr>
+    <tr><td>Your chosen language for Bible, Christian Living, Online Library, and Web Search
+    modes</td><td>So each mode opens in the language you were using</td></tr>
+    <tr><td>Display preferences — font size, which mode the app opens in, floating-button
+    position/size, light or dark appearance</td><td>Your app looks and behaves the way you set it
+    up</td></tr>
+    <tr><td>Your answers to the "open external links" and "carry search text between modes"
+    prompts, if you chose to have the app remember them</td><td>So you're not asked the same
+    question repeatedly, if you don't want to be</td></tr>
+    <tr><td>A short, locally bundled index of topic names and categories used for the Christian
+    Living search feature</td><td>Lets you search topics without needing an internet connection
+    for the search itself</td></tr>
+    <tr><td>A translation-service User ID and API Key, <em>only if you choose to enter them</em>
+    on the optional Translation settings screen</td><td>Lets the app use your own translation
+    account instead of (or alongside) the app's built-in one</td></tr>
+  </table>
+  <p>Because this is ordinary app storage, it may be included if your device backs up app data to
+  your Google account (a standard Android feature, not something this app does on its own). It's
+  never transmitted to us or to anyone else by the app itself.</p>
+
+  <h2>3. What gets sent over the internet, and to whom</h2>
+  <p>The app doesn't run its own servers and doesn't have a backend of its own. Everything it
+  fetches, it fetches directly from third-party websites and services, the same way a web browser
+  would:</p>
+
+  <h3>Bible and publication content</h3>
+  <p>When you look up a scripture, topic, or publication, the app opens that page directly from
+  the relevant website — jw.org, the Watchtower Online Library (wol.jw.org), Bible Hub
+  (biblehub.com), or 2001translation.org, depending on which mode you're using. Whatever you
+  type — a reference, a topic name, a search term — is sent to that site as part of the request,
+  the same as if you'd typed it into that site's own search box in a browser. Each of those sites
+  has its own privacy practices, which this app doesn't control. We'd encourage checking their own
+  privacy policies if you want details on how they individually handle that.</p>
+
+  <h3>Web Search mode</h3>
+  <p>Typing a search here sends your search text to Google, with <code>jw.org</code> silently
+  added to focus results on that site. This is a normal Google search, subject to Google's own
+  privacy policy.</p>
+
+  <h3>Translation</h3>
+  <p>Switching language while something's already showing translates that text online before
+  searching again. This app currently sends that text to Google's official Cloud Translation
+  API using an API key built into the app, so the translation itself isn't tied to any personal
+  account of yours. The app also includes (not currently active, but present in its code for
+  future use) the ability to connect to Sarvam AI and Microsoft Azure's translation services in
+  the same way. If you enter your own credentials on the Translation settings screen, translation
+  requests may instead be sent using your own account with that service, governed by that
+  service's own terms.</p>
+  <p>In every case, only the specific word or short phrase being translated is sent — never your
+  device information, location, or any stored preference.</p>
+
+  <h2>4. No advertising, no analytics, no tracking</h2>
+  <p>This app does not display ads, does not use any advertising network, and does not include
+  any analytics, crash-reporting, or usage-tracking software. We have no visibility into how you
+  use the app, what you search for, or which pages you view — none of that is collected or sent
+  to us at all.</p>
+
+  <h2>5. Permissions the app requests</h2>
+  <p>The app requests internet access only — needed to load Bible/study content and to use the
+  translation feature described above. It does not request access to your contacts, camera,
+  microphone, location, photos, or any other device data.</p>
+
+  <h2>6. Children's privacy</h2>
+  <p>This app is a general-audience reading tool and isn't directed at children. It doesn't
+  knowingly collect personal information from anyone, including children, because it doesn't
+  collect personal information from anyone at all.</p>
+
+  <h2>7. Your choices</h2>
+  <ul>
+    <li>The Customise screen lets you control whether the app asks before opening external links
+    or carrying search text between modes, and lets you clear or change those saved answers at
+    any time.</li>
+    <li>The Translation settings screen lets you clear any translation credentials you've entered,
+    at any time.</li>
+    <li>Uninstalling the app removes everything it stored locally on your device.</li>
+  </ul>
+
+  <h2>8. Changes to this policy</h2>
+  <p>If this policy changes, an updated version will be posted here with a new "last updated"
+  date. Continued use of the app after a change means you accept the updated policy.</p>
+
+  <h2>9. Contact</h2>
+  <p>Questions about this policy can be sent to: <strong>orbit3tech@gmail.com</strong></p>
+
+</div>
+</body>
+</html>
